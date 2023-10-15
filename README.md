@@ -9,7 +9,7 @@
 📫 How to reach me:
    - 📧 Email: [ ajmalsajeer362@gmail.com ]
    - 💼 LinkedIn: [ www.linkedin.com/in/ajmal-s-511025212 ]
-   - 🌐 Personal Website: [YourWebsiteURL]
+   - 🌐 Personal Website: [WebsiteURL]
 
 
 <!---
